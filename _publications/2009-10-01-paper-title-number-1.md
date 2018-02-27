@@ -1,15 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Taking messages Into the magnet: Method-theory synergy in media neuroscience research"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/messages-into-the-magnet
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'Communication Monographs'
+paperurl: 'https://www.tandfonline.com/doi/abs/10.1080/03637751.2017.1395059'
+citation: 'Weber, R., Fisher, J.T., Hopp, F., & Lonergan, C. (2018). &quot;Taking messages into the magnet: Method theory synergy in media neuroscience research.&quot; <i>Communication Monographs</i>. 85. 81-102.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
