@@ -12,4 +12,4 @@ Brain imaging techniques within communication research have rapidly expanded in 
 
 [Download paper here](https://www.tandfonline.com/doi/abs/10.1080/03637751.2017.1395059)
 
-Recommended citation: Weber, R.,  Fisher, J.T. , Hopp, F., & Lonergan, C. (2018). Taking messages Into the magnet: Method-theory synergy  in media neuroscience research.  Communication Monographs. Published online ahead of print. 
+Recommended citation: Weber, R.,  Fisher, J.T. , Hopp, F., & Lonergan, C. (2018). Taking messages Into the magnet: Method-theory synergy  in media neuroscience research.  Communication Monographs. Published online ahead of printß 
