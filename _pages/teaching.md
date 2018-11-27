@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# SUMMER 2019
+# SUMMER 2018
 
 **Instructor of Record**<br/>
 *PSY 111 - Behavioral Neuroscience*<br/>
