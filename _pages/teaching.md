@@ -21,7 +21,7 @@ The University of California, Santa Barbara
 
 In this course, students learn the basics of cognitive psychology with a focus on the structure and function of the brain and its role in facilitating each of the major cognitive processes considered in the course (attention, pattern recognition, memory, imagery, language, problem solving, reasoning, decision making, and social cognition. 
 
-#FALL 2015 - Spring 2016
+# FALL 2015 - Spring 2016
 
 **Teaching Associate**
 *MCOM 2320 - Writing for Media and Communication*
