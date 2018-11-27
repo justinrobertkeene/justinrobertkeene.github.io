@@ -5,6 +5,14 @@ permalink: /teaching/
 author_profile: true
 ---
 
+# SUMMER 2019
+
+**Instructor of Record**
+*PSY 111 - Behavioral Neuroscience*
+The University of California, Santa Barbara
+
+An examination of major concepts in behavioral neuroscience. Topics may include: molecular bases of neuron function, neurotransmitter systems, sensory and motor systems, neural bases of learning, memory, and motivated behavior. 
+
 # SUMMER 2017
 
 **Instructor of Record**
