@@ -17,7 +17,7 @@
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
-        {{ post.url }}
+        {{ post.title }}
       {% endif %}
     </h2>
     {% if post.read_time %}
@@ -26,5 +26,3 @@
     {% if post.authors %}<p class="page__meta"><i class="fas fa-users" aria-hidden="true"></i> {{ post.authors }}</p>{% endif %}
     {% if post.venue %}<p class="page__meta"><i class="fas fa-map-marked-alt" aria-hidden="true"></i>{{ post.venue }}, {{post.location}} {% endif %}
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
-  </article>
-</div>
