@@ -5,6 +5,6 @@ type: "Conference Paper"
 permalink: /talks/ADHD_ICA17
 authors: "Fisher, J.T., & Keene, J.R."
 venue: "The 67th Annual Meeting of the International Communication Association"
-date: 2017-05
+date: 2017-05-20
 location: "San Diego CA, USA"
 ---

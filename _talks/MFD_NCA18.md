@@ -5,6 +5,6 @@ type: "Conference Paper"
 permalink: /talks/MFD_NCA18
 authors: "Hopp, F.R., Cornell, D., Fisher, J. T., Huskey, R., & Weber, R. "
 venue: "The 104th Annual Meeting of the National Communication Association"
-date: 2018-11
+date: 2018-11-11
 location: "Salt Lake City UT, USA"
 ---

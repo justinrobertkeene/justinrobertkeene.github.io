@@ -5,6 +5,6 @@ type: "Conference Paper"
 permalink: /talks/Framing_ICA18
 authors: "Fisher, J.T., Cornell, D., Hopp, F.R., Mangus, M., & Weber, R. "
 venue: "The 68th Annual Meeting of the International Communication Association"
-date: 2018-05
+date: 2018-05-23
 location: "Prague, CZ"
 ---

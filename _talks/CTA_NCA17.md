@@ -5,6 +5,6 @@ type: "Conference Paper"
 permalink: /talks/CTA_NCA17
 authors: "Huskey, R., Fisher, J.T., Craighead, B. "
 venue: "The 102nd Annual Meeting of the National Communication Association"
-date: 2016-11
+date: 2016-11-11
 location: "Philadelphia PA, USA"
 ---

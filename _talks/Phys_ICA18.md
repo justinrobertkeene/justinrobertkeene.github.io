@@ -5,6 +5,6 @@ type: "Conference Paper"
 permalink: /talks/Phys_ICA18
 authors: "Keene, J.R., Adams, R., Najera, C., Fisher. J.T., Berke, C., & Bolls, P."
 venue: "The 68th Annual Meeting of the International Communication Association"
-date: 2018-05
+date: 2018-05-23
 location: "Prague, CZ"
 ---

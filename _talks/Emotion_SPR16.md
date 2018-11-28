@@ -5,6 +5,6 @@ type: "Conference Paper"
 permalink: /talks/Emotion_SPR16
 authors: "Loof, T., Berke, C.K., Davidson, A., Fisher, J.T., Keene, J.R."
 venue: "The 56th Annual Meeting of the Society of Psychophysiological Researchers"
-date: 2016-09
+date: 2016-09-20
 location: "Minneapolis MN, USA"
 ---
