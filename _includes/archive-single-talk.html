@@ -23,6 +23,6 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.authors %}<p class="page__meta"><i class="fas fa-users" aria-hidden="true"></i> {{ post.authors }}</p>{% endif %}
-    {% if post.venue %}<p class="page__meta"><i class="fas fa-map-marked-alt" aria-hidden="true"></i>{{ post.venue }}, {{post.location}} {% endif %}
+    {% if post.authors %}<p class="page__meta"><i class="fas fa-users" aria-hidden="true"></i><&nbsp;>{{ post.authors }}</p>{% endif %}
+    {% if post.venue %}<p class="page__meta"><i class="fas fa-map-marked-alt" aria-hidden="true"></i><&nbsp;>{{ post.venue }}, {{post.location}} {% endif %}
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
