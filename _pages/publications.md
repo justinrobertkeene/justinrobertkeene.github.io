@@ -15,6 +15,8 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
+-----
+
 # Conference Presentations
 
 {% for post in site.talks reversed %}
