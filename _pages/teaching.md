@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# SUMMER 2018
+## SUMMER 2018
 
 **Instructor of Record**<br/>
 *PSY 111 - Behavioral Neuroscience*<br/>
@@ -13,7 +13,7 @@ The University of California, Santa Barbara
 
 An examination of major concepts in behavioral neuroscience. Topics may include: molecular bases of neuron function, neurotransmitter systems, sensory and motor systems, neural bases of learning, memory, and motivated behavior. 
 
-# SUMMER 2017
+## SUMMER 2017
 
 **Instructor of Record**<br/>
 *PSY 108 - Cognitive Psychology*<br/>
@@ -21,7 +21,7 @@ The University of California, Santa Barbara
 
 In this course, students learn the basics of cognitive psychology with a focus on the structure and function of the brain and its role in facilitating each of the major cognitive processes considered in the course (attention, pattern recognition, memory, imagery, language, problem solving, reasoning, decision making, and social cognition. 
 
-# FALL 2015 - Spring 2016
+## FALL 2015 - Spring 2016
 
 **Teaching Associate**<br/>
 *MCOM 2320 - Writing for Media and Communication*<br/>
