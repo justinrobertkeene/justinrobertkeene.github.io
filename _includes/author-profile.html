@@ -23,10 +23,10 @@
     <button class="btn btn--inverse">Follow</button>
     <ul class="author__urls social-icons">
       {% if author.location %}
-        <li><a href="http://www.comm.ucsb.edu"><i class="fas fa-street-view" aria-hidden="true"></i>&nbsp; {{ author.location }}</a></li>
+        <li><a href="http://www.comm.ucsb.edu"><i class="fas fa-landmark" aria-hidden="true"></i>&nbsp; {{ author.location }}</a></li>
       {% endif %}
       {% if author.employer %}
-        <li><a href="http://www.medianeuroscience.org"><i class="fas fa-brain" style="color:#00529A" aria-hidden="true"></i> &nbsp;{{ author.employer }}</a></li>
+        <li><a href="http://www.medianeuroscience.org"><i class="fas fa-building" style="color:#00529A" aria-hidden="true"></i> &nbsp;{{ author.employer }}</a></li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-link" aria-hidden="true"></i> &nbsp;{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
