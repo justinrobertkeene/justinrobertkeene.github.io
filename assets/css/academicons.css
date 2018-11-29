@@ -144,9 +144,11 @@
 }
 .ai-orcid:before {
   content: "\e840";
+  color:  #9BD100;
 }
 .ai-orcid-square:before {
   content: "\e841";
+  color:  #9BD100;
 }
 .ai-osf:before {
   content: "\e842";
@@ -186,9 +188,12 @@
 }
 .ai-researchgate:before {
   content: "\e854";
+  color:  #00D0BB;
 }
 .ai-researchgate-square:before {
   content: "\e855";
+  color:  #00D0BB;
+
 }
 .ai-scirate:before {
   content: "\e856";
