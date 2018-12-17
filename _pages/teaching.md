@@ -11,7 +11,7 @@ author_profile: true
 *PSY 111 - Behavioral Neuroscience*<br/>
 The University of California, Santa Barbara
 
-An examination of major concepts in behavioral neuroscience. Topics may include: molecular bases of neuron function, neurotransmitter systems, sensory and motor systems, neural bases of learning, memory, and motivated behavior. 
+This course consists of an examination of major concepts in behavioral neuroscience. Topics may include: molecular bases of neuron function, neurotransmitter systems, sensory and motor systems, neural bases of learning, memory, and motivated behavior.
 
 ## SUMMER 2017
 
@@ -28,6 +28,4 @@ In this course, students learn the basics of cognitive psychology with a focus o
 Texas Tech University
 
 Writing for Media and Communication is a course designed to develop written communication skills to prepare students for careers in media and communication. The central topics to be presented and discussed include: writing mechanics, and grammar, spelling, and punctuation; writing for informative, persuasive, and advertising media; writing for business communication; and academic writing in media and communication scholarship.
-
-In this role, I taught two sections per week of 30-35 students per section, graded student papers, and guest lectured for the combined section. 
 
