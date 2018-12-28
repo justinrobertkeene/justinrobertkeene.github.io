@@ -15,9 +15,9 @@ While the method of information distribution might change from course to course,
 
 ---
 
-##Courses Previously Taught
+## Courses Previously Taught
 
-###Undergraduate
+### Undergraduate
 Introduction to Digital and Social Media: Spring 2016, Fall 2016, Spring 2019
 Introduction to Media Production and Composition: Fall 2018
 Foundations of Digital Post-Production: Spring 2017, Fall 2017, Fall 2018
@@ -27,7 +27,7 @@ Multimedia Development (now called Motion Graphics): Spring 2014, Spring 2015
 Special Topics in Media & Communication (Story Telling via Smart Phones; Study Abroad, London, UK): Maymester 2016, Maymester 2017
 Special Topics in Media & Communication (Adventure Media, Editorial Photography and Bike-packing): Spring 2017, Spring 2018
 
-###Graduate
+### Graduate
 Digital Media Production: Fall 2015, Summer II 2016, Spring 2018
 Research Methods: Fall 2014
 Mass Communication Theory: Spring 2018
