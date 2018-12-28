@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jacob T. Fisher"
+title                    : "Justin Robert Keene"
 title_separator          : "-"
-name                     : &name "Jacob T. Fisher"
-description              : &description "Graduate student in the Communication department at the University of California Santa Barbara. Researcher - Media Neuroscience Lab. Trainee - National Science Foundation IGERT in Network Science and Big Data."
-url                      : https://jacobtfisher.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Justin Robert Keene"
+description              : &description "Assistant Professor of Creative Media at Texas Tech University. Director of the Cognition & Emotion Lab."
+url                      : https://justinrobertkeene.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jacobtfisher/jacobtfisher.github.io"
+repository               : "justinrobertkeene/justinrobertkeene.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : jake_fisher
+  username               : justinkeene
 facebook:
-  username               : jacobtfisher
+  username               : justinkeene
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jacob T. Fisher"
+  name             : "Justin Robert Keene"
   avatar           : "headshot.jpg"
   bio              : " "
-  location         : "UC Santa Barbara"
-  employer         : "Media Neuroscience Lab"
-  googlescholar    : "https://scholar.google.com/citations?user=tvxADRYAAAAJ&hl=en"
-  email            : "jacob.taylor.fisher@gmail.com"
+  location         : "Texas Tech University"
+  employer         : "Cognition & Emotion Lab"
+  googlescholar    : "https://scholar.google.com/citations?user=VMpBzOoAAAAJ&hl=en&oi=ao"
+  email            : "justin.r.keene@ttu.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,21 +94,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jacobtfisher"
-  researchgate     : "Jacob_Fisher4"
+  github           : "justinrobertkeene"
+  researchgate     : 
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "0000-0002-2968-2557"
-  osf              : "n49b8"
+  orcid            : "0000-0002-1404-0025"
+  osf              : "q95zv"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@jake_fisher"
+  twitter          : "@justinkeene"
   vine             :
   weibo            :
   xing             :
