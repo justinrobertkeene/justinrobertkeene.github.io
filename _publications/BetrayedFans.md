@@ -1,5 +1,5 @@
 ---
-title: "The effect of sports fan identification on the cognitive processing of sports news. "
+title: "The effect of sports fan identification on the cognitive processing of sports news."
 authors: "Potter, R. F., & Keene, J. R."
 collection: publications
 permalink: /publication/BetrayedFans
