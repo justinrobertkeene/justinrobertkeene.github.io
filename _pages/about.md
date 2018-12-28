@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor of Creative Media and the Director of the [Cognition & Emotion Lab] (https://github.com/cognitionemotionlab/lab-docs/wiki) at Texas Tech University. 
+I am an Assistant Professor of Creative Media and the Director of the <u><a href="https://github.com/cognitionemotionlab/lab-docs/wiki">Cognition & Emotion Lab</a></u> at Texas Tech University. I received my Ph.D. from Indiana University-Bloomington in 2014 with a double major in Cognitive Science and Mass Communication.
 
 My work deals with risky behavior (e.g. non-medical use of prescription medication and the use of illegal drugs) among college students. Specifically, my research investigates how risk is communicated to an audience, and how media psychology can help determine not only what but when and how information should be placed in a message to be most effective. This work demonstrates how changes in the emotional tone of a message over time influence cognitive and emotional processes, and how these reactions manifest as attitudes, memory, behavioral intentions, and other effects.
 
