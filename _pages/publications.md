@@ -25,6 +25,8 @@ You can also find my articles on <u><a href="https://scholar.google.com/citation
 
 # Conference Presentations
 
+Coming soon! A full list can be found in the CV linked above.
+
 <!---{% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %} --->
